@@ -8,4 +8,4 @@
 
    2.1 Нарисовал верхнеуровневую архитектуру.
 
-  <img    src="C:\Users\User\Documents\GitHub\data-learn\de101\moduel01\Диаграмма 1.png" alt="solution_architecture" style="max-width: 100%;">
+   
