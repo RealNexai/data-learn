@@ -7,4 +7,7 @@
 2. Архитиктура аналитического решения.
 
    2.1 Нарисовал верхнеуровневую архитектуру.
+
   ![dio](https://github.com/RealNexai/data-learn/blob/main/de101/moduel01/Sours.png)
+
+   2.2
